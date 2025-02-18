@@ -7,14 +7,14 @@ function About() {
         <div className="flex flex-wrap">
             <div className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex items-center justify-center">
-                    <img className="rounded-xl" src={about1} alt="img-about1" />    
+                    <img className="rounded-xl h-60" src={about1} alt="img-about1" />    
                 </div>
             </div>
             <div className="w-full lg:w-1/2 ">
                 <div className="flex justify-center lg:justify-start">
                     <p className="my-2 max-w-xl py-6">
-                    Étudiant en Master 1 en SDIA à l’EMIT,
-je cherche une <span className="font-bold">alternance</span> . Je propose
+                    Étudiant en Master 1 en Science des Données et de l'Intelligence Artificielle à l’EMIT,
+je suis à la recherche d'un <span className="font-bold">emploi</span> . Je propose
 mes compétences en <span className="font-bold">UI/UX design</span>,
 <span className="font-bold">React.js</span> et <span className="font-bold">Tailwindcss</span> pour créer
 des interfaces modernes et intuitives,
